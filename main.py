@@ -49,3 +49,4 @@ for y in y_tab:
 duza_tab = []
 duza_tab = x + y
 print("Wartości połączenia dwóch tablic ", duza_tab)
+print("Dokonano zmiany w postaci komentarza który własie jest wyświetlany")
